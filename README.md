@@ -5,3 +5,6 @@ A basic alarm app for android
 
 
 ##Features
+1. Set an alarm
+2. Customize sounds of alarms
+3. Set alarm snooze intervals
